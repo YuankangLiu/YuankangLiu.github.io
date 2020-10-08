@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Shandong University
+  * Ji'nan, China, 2014-2016
+* B.Sc. (Hons) in Physics with Astrophysics, The University of Manchester
+  * Manchester, UK, 2016-2018
+* M.Sc. in Physis, ETH Zurich
+  * Zurich, Switzerland, 2018-2021 (expected)
 
 Work experience
 ======
