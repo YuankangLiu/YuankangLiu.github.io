@@ -15,10 +15,10 @@ Education
   * Ji'nan, China, 2014-2016
 * B.Sc. (Hons) in Physics with Astrophysics, The University of Manchester
   * Manchester, UK, 2016-2018
-* M.Sc. in Physis, ETH Zurich
+* M.Sc. in Physics, ETH Zurich
   * Zurich, Switzerland, 2018-2021 (expected)
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -51,12 +51,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Chinese - Native
+* English - Proficient User C1 (IELTS 7.5)
+* German - Basic User A2
