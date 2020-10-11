@@ -28,7 +28,7 @@ Research experience (Selected)
     * Full cosmological MHD zoom-in simulations
     * Analysis of morphology and evolution of magnetic fields in galaxies
     * Prediction of Faraday rotation signals using simulated galaxies
-  * Supervisors: Prof. Romain Teyssier, Prof. Simon Lilly (Co-supervisor)
+  * Supervisors: Prof. Romain Teyssier, Prof. Simon Lilly
 
 * June 2018 - August 2018: Preparation work for Carbon mOnoxide Mapping Array (COMAP) project
   * Jodrell Bank Centre for Astrophysics, The University of Manchester
