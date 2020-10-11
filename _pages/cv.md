@@ -29,7 +29,14 @@ Research experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Summer Schools and Workshops
+=====
+* Effective High-Performance Computing & Data Analytics with GPUs
+  * CSCS-USI SUMMER SCHOOL 2020, 13.07.2020-24.07.2020, Lugano, Switzerland (via Zoom)
+* Swiss edition of the ESA JWST Master Class Workshop
+  * Universität Bern, 23.03.2020-24.03.2020, Bern, Switzerland
+
 Skills
 ======
 * Programming Languages
