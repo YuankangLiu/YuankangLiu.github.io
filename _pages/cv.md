@@ -58,7 +58,7 @@ Skills
   * Python, C/C++, Fortran, LaTeX
 * High Performance Computing
   * OpenMP/MPI, Cuda C
-  * 65273 node hours on Piz Daint at the Swiss National Supercomputing Centre (CSCS)
+  * 65273 node hours on Piz Daint at the Swiss National Supercomputing Centre (CSCS) in Lugano
 *  Numerical Methods for PDEs
 
 Publications
