@@ -14,7 +14,7 @@ Education
 * B.Sc. in Physics, Shandong University
   * Ji'nan, China, 2014-2016
 * B.Sc. (Hons) in Physics with Astrophysics, The University of Manchester
-  * Manchester, UK, 2016-2018
+  * Manchester, United Kingdom, 2016-2018
 * M.Sc. in Physics, ETH Zurich
   * Zurich, Switzerland, 2018-2021 (expected)
 
@@ -32,12 +32,12 @@ Research experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, C/C++, Fortran, LaTeX
+* High Performance Computing
+  * OpenMP/MPI, Cuda C
+  * 65273 node hours on Piz Daint at the Swiss National Supercomputing Centre (CSCS)
+*  Numerical methods for PDEs
 
 Publications
 ======
