@@ -33,7 +33,7 @@ Research experience (Selected)
 * June 2018 - August 2018: Preparation work for Carbon mOnoxide Mapping Array (COMAP) project
   * Jodrell Bank Centre for Astrophysics, The University of Manchester
   * Topics included:
-    * Modelling the pacity of atmosphere
+    * Modelling the attenuation of radio signals (26 GHz ~ 32 GHz) Scaused by atmosphere 
     * Radio telescope system temperature calibration for COMAP project
   * Supervisors: Prof. Clive Dickinson, Dr. Stuart Harper
 
