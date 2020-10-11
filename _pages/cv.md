@@ -33,11 +33,11 @@ Research experience (Selected)
 * June 2018 - August 2018: Preparation work for Carbon mOnoxide Mapping Array (COMAP) project
   * Jodrell Bank Centre for Astrophysics, The University of Manchester
   * Topics included:
-    * Modelling the attenuation of radio signals (26 GHz ~ 32 GHz) Scaused by atmosphere 
+    * Modelling the attenuation of radio signals (26 GHz ~ 32 GHz) caused by atmosphere 
     * Radio telescope system temperature calibration for COMAP project
   * Supervisors: Prof. Clive Dickinson, Dr. Stuart Harper
 
-* September 2017 - November 2017: 21-cm Signals of Milky Way with A 7-m Radio Telescope
+* September 2017 - November 2017: Observing the 21-cm Signals of the Milky Way with A 7-m Radio Telescope
   * Jodrell Bank Observatory, The University of Manchester
   * Topics included:
     * Calibration of a 7-m radio telescope with Cas A
