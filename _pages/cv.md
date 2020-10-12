@@ -42,7 +42,7 @@ Research experience (Selected)
   * Topics included:
     * Calibration of a 7-m radio telescope with Cas A
     * Milky Way Rotation Curve Measurement
-    * Galaxies M31 and M33 mass estimation
+    * Total mass estimation of galaxy M31 and M33
   * Supervisors: Dr. Patrick Weltevrede, Dr. Michael Keith
 
 Summer Schools and Workshops
