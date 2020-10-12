@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Cosmological Magnetohydrodynamical Simulations
+* Galaxy Formation and Evolution
+* Galactic Feedback, Circumgalactic Medium
+* Computational Methods
+
 Education
 ======
 * B.Sc. in Physics, Shandong University
