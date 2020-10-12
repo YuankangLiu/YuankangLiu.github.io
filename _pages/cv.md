@@ -18,12 +18,12 @@ Research Interest
 
 Education
 ======
-* B.Sc. in Physics, Shandong University
-  * Ji'nan, China, 2014-2016
-* B.Sc. (Hons) in Physics with Astrophysics, The University of Manchester
-  * Manchester, United Kingdom, 2016-2018
 * M.Sc. in Physics, ETH Zurich
   * Zurich, Switzerland, 2018-2021 (expected)
+* B.Sc. (Hons) in Physics with Astrophysics, The University of Manchester
+  * Manchester, United Kingdom, 2016-2018
+* B.Sc. in Physics, Shandong University
+  * Ji'nan, China, 2014-2016
 
 Research experience (Selected)
 ======
