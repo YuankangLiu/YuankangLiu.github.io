@@ -34,7 +34,7 @@ Research experience (Selected)
   * Jodrell Bank Centre for Astrophysics, The University of Manchester
   * Topics included:
     * Modelling the attenuation of radio signals (26 GHz ~ 32 GHz) caused by atmosphere 
-    * Radio telescope system temperature calibration for COMAP project
+    * Radio telescope system temperature calibration for a telescope at Owens Valley Radio Observatory at Caltech
   * Supervisors: Prof. Clive Dickinson, Dr. Stuart Harper
 
 * September 2017 - November 2017: Observing the 21-cm Signals of the Milky Way with A 7-m Radio Telescope
